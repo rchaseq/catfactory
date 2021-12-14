@@ -13,6 +13,7 @@ Click +1 Cat to add as many cats as you would like! Click the Dance Party button
 * Add dance music to play during movement
 
 
+
 MIT License
 
 Copyright (c) 2021 Rowan Quinn
